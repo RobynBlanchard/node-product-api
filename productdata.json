@@ -1,0 +1,50 @@
+[
+    {
+        "description" : "A lovely bag.",
+        "title" : "Bag",
+        "info" : {
+            "price": 1250,
+            "images": ["bag.jpg"]
+        }
+    },
+    {
+        "description" : "Grow your own christmas tree.",
+        "title" : "Grow your own tree",
+        "info" : {
+            "price": 1000,
+            "images": ["tree.jpg"]
+        }
+    },
+    {
+        "description" : "A months curry subscription, delivered to your door.",
+        "title" : "Curry subscription",
+        "info" : {
+            "price": 3000,
+            "images": ["curry.jpg"]
+        }
+    },
+    {
+        "description" : "Three drawer jewelery box.",
+        "title" : "Jewelry box",
+        "info" : {
+            "price": 5000,
+            "images": ["box.jpg"]
+        }
+    },
+    {
+        "description" : "Diamond encrusted watch.",
+        "title" : "Diamond watch",
+        "info" : {
+            "price": 20000,
+            "images": ["watch.jpg"]
+        }
+    },
+    {
+        "description" : "Get a great portrait of your dog.",
+        "title" : "Dog portrait",
+        "info" : {
+            "price": 3850,
+            "images": ["portrait.jpg"]
+        }
+    }
+]
